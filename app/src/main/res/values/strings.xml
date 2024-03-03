@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BmiMachine</string>
+    <string name="enter_weight">enter weight</string>
+    <string name="enter_height_in_inch">enter height in inch</string>
+    <string name="enter_height_in_ft">enter height in ft</string>
+    <string name="calculate_BMI">calculate_BMI</string>
+    <string name="result">Result :</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="weight">Weight :</string>
+    <string name="height">Height :</string>
+    <string name="you_are_over_weight">You are over weight :</string>
+    <string name="you_are_under_weight">You are under weight :</string>
+    <string name="you_are_fit">You are fit :</string>
+
+</resources>
